@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sahil Kumar
 
 ###  🏆 About Me:
-<br>I'm a **MERN stack developer** who loves bringing ideas to life on the web. I build dynamic web applications using MongoDB, Express.js, React, and Node.js.<br>
+<br>I'm a **AI Full stack MERN developer** who loves bringing ideas to life on the web. I build dynamic web applications using MongoDB, Express.js, React, and Node.js.<br>
 <br>My passion is turning complex problems into simple, elegant solutions that are easy for users to love. I enjoy writing clean code and collaborating with a team to build amazing projects from scratch.I'm always looking for new challenges and opportunities to learn and grow as a developer.<br>
 
 **Resume Link :** https://bit.ly/sahil_kumar_resume1
